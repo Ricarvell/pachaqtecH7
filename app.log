@@ -23,7 +23,7 @@
 2020-07-11 17:41:02,545 - Menu - DEBUG - La opcion 0 es valida del menu Menu Inicio
 2020-07-11 17:41:02,545 - Principal - DEBUG - Volvemos a mostrar menu
 2020-07-11 18:07:50,651 - Principal - INFO - Inicio del sistema
-2020-07-11 18:07:52,569 - Menu - ERROR - invalid literal for int() with base 10: 
+2020-07-11 18:07:52,569 - Menu - ERROR - invalid literal for int() with base 10: 'C:/Users/BRYAN/AppData/Local/Programs/Python/Python37/python.exe c:/Users/BRYAN/Documents/repositorioprofe/Hackaton7/Grupo3/app/init.py'
 2020-07-11 18:07:55,931 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
 2020-07-11 18:07:55,931 - Principal - DEBUG - Mostramos el Menu Empleado
 2020-07-11 18:07:58,353 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
@@ -69,4 +69,68 @@
 2020-07-11 18:39:12,529 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
 2020-07-11 18:39:12,529 - Principal - INFO - Menu Empleado --> Alumno
 2020-07-11 18:39:13,608 - Menu - DEBUG - La opcion 1 es valida del menu Menu Alumno
-2020-07-12 16:41:48,382 - Principal - INFO - Inicio del sistema
+2020-07-11 23:08:13,230 - Principal - INFO - Inicio del sistema
+2020-07-11 23:08:15,056 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-11 23:08:15,056 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-11 23:08:15,774 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-11 23:08:15,775 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-11 23:08:18,638 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-11 23:08:50,030 - Menu - DEBUG - La opcion 0 es valida del menu Menu Alumno
+2020-07-11 23:09:25,708 - Principal - INFO - Inicio del sistema
+2020-07-11 23:09:27,926 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-11 23:09:27,926 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-11 23:09:28,814 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-11 23:09:28,814 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-11 23:09:29,806 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-11 23:09:41,982 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-11 23:10:09,485 - Menu - DEBUG - La opcion 1 es valida del menu Menu Alumno
+2020-07-11 23:10:47,221 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-12 00:55:13,130 - Principal - INFO - Inicio del sistema
+2020-07-12 00:55:15,852 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-12 00:55:15,852 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-12 00:55:16,717 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-12 00:55:16,717 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-12 00:55:20,732 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-12 00:55:24,140 - Menu - DEBUG - La opcion 3 es valida del menu Menu Alumno
+2020-07-12 00:57:56,739 - Principal - INFO - Inicio del sistema
+2020-07-12 00:57:57,858 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-12 00:57:57,858 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-12 00:57:58,563 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-12 00:57:58,563 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-12 00:57:59,834 - Menu - DEBUG - La opcion 3 es valida del menu Menu Alumno
+2020-07-12 01:01:26,342 - Principal - INFO - Inicio del sistema
+2020-07-12 01:01:29,922 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-12 01:01:29,923 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-12 01:01:30,553 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-12 01:01:30,553 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-12 01:01:35,977 - Menu - DEBUG - La opcion 3 es valida del menu Menu Alumno
+2020-07-12 01:03:43,107 - Principal - INFO - Inicio del sistema
+2020-07-12 01:03:44,344 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-12 01:03:44,344 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-12 01:03:45,495 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-12 01:03:45,495 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-12 01:03:48,168 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-12 01:03:50,328 - Menu - DEBUG - La opcion 3 es valida del menu Menu Alumno
+2020-07-12 01:05:08,119 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-12 01:05:15,510 - Menu - DEBUG - La opcion 0 es valida del menu Menu Alumno
+2020-07-12 01:06:10,241 - Principal - INFO - Inicio del sistema
+2020-07-12 01:06:11,687 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-12 01:06:11,687 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-12 01:06:12,478 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-12 01:06:12,478 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-12 01:06:13,534 - Menu - DEBUG - La opcion 3 es valida del menu Menu Alumno
+2020-07-12 01:12:00,307 - Menu - ERROR - invalid literal for int() with base 10: 'C:/Users/BRYAN/AppData/Local/Programs/Python/Python37/python.exe c:/Users/BRYAN/Documents/repositorioprofe/Hackaton7/Grupo3/app/cruds.py'
+2020-07-12 01:12:07,470 - Principal - INFO - Inicio del sistema
+2020-07-12 01:12:08,819 - Menu - DEBUG - La opcion 1 es valida del menu Menu Inicio
+2020-07-12 01:12:08,819 - Principal - DEBUG - Mostramos el Menu Empleado
+2020-07-12 01:12:09,459 - Menu - DEBUG - La opcion 1 es valida del menu Menu Empleado
+2020-07-12 01:12:09,459 - Principal - INFO - Menu Empleado --> Alumno
+2020-07-12 01:12:10,283 - Menu - DEBUG - La opcion 1 es valida del menu Menu Alumno
+2020-07-12 01:12:52,810 - Menu - DEBUG - La opcion 1 es valida del menu Menu Alumno
+2020-07-12 01:13:12,122 - Menu - DEBUG - La opcion 1 es valida del menu Menu Alumno
+2020-07-12 01:14:29,737 - Menu - ERROR - invalid literal for int() with base 10: ''
+2020-07-12 01:14:32,417 - Menu - DEBUG - La opcion 1 es valida del menu Menu Alumno
+2020-07-12 01:14:53,321 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-12 01:15:00,873 - Menu - DEBUG - La opcion 3 es valida del menu Menu Alumno
+2020-07-12 01:16:00,416 - Menu - DEBUG - La opcion 2 es valida del menu Menu Alumno
+2020-07-12 16:04:46,539 - Principal - INFO - Inicio del sistema
